@@ -74,7 +74,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-           I will build and write a clean and clear user friendly API documentation that will help other engineers seemless integrate with your service.
+           I will build and write a clean and clear user friendly API documentation that will help other engineers seamlessly integrate with your service.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
