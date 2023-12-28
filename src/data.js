@@ -1,34 +1,35 @@
 export const projects = [
+  
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Qore API Documentation",
+    subtitle: "Readme",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Technical documentation for Qore, highlighting my experience with fintech API documentation.",
+    image: "./qore.gif",
+    link: "https://docs.qore.inc/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Norebase API Documenation",
+    subtitle: "Gitbook",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Comprehensive documentation for Norebase, showcasing my technical writing skills.",
+    image: "./norebase.gif",
+    link: "https://docs.norebase.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Sendbox API Documentation",
+    subtitle: "Gitbook",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "demonstrating my ability to create clear and comprehensive developer documentation.",
+    image: "./sendbox.gif",
+    link: "https://docs.sendbox.co/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Personal Blog",
+    subtitle: "Hashnode",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+      "Regularly publishing technical guides and articles on my blog, showcasing my thought leadership in the field.",
+    image: "./blog.gif",
     link: "https://reactbootcamp.com",
   },
 ];
@@ -36,25 +37,25 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "The work you've done for us is very useful so many compaines have been able to intergate seamlessly using the API documentation Adejoke created.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "Dominic",
+    company: "Norebase",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Adejoke is very effiecient in her work, she always delivers she completed our API documentation in the said time frame.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "Tolu",
+    company: "Qore",
   },
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Gitbook",
+  "Readme",
+  "Markdown",
+  "Docusaurus",
+  "HTML",
+  "CSS",
 ];
