@@ -30,7 +30,7 @@ export const projects = [
     description:
       "Regularly publishing technical guides and articles on my blog, showcasing my thought leadership in the field.",
     image: "./blog.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://jastrupgeeky.hashnode.dev/",
   },
 ];
 
